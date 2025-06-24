@@ -1,0 +1,1 @@
+print(" [LifeCore] :    C'est le serveur qui parle 😊")
