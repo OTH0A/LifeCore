@@ -1,3 +1,10 @@
 .idea
 cache
 .replxx_history
+*.dll
+citizen
+crashes
+components.json
+server-tls.crt
+server-monitor-token.key
+server-tls.key
