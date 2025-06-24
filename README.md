@@ -14,4 +14,6 @@ _Build life, not just servers._
 Coming soon...
 
 ## content : 
-- c-scripting-core : The core runtime for client- and server-side scripting. (Allows execution of Lua/JS/TS code in the FiveM environment.).
+- c-scripting-core : The core runtime for client- and server-side scripting. (Allows execution of Lua/JS/TS code in the FiveM environment.). ✅
+- chat 💬
+- monitor 📊
