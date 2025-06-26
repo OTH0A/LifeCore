@@ -2,7 +2,7 @@
 cache
 .replxx_history
 *.dll
-citizen
+clr2
 crashes
 components.json
 server-tls.crt
